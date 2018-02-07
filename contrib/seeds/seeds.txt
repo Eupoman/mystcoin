@@ -1,0 +1,2 @@
+192.99.35.69:17118 # node1.MystCoin.org
+37.59.54.5:17118 # node2.MystCoin.org
